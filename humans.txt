@@ -6,8 +6,7 @@
 Cindy Arrog cindy.redira@gmail.com
 # THANKS
 
-    <name>
-
+All my students
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
