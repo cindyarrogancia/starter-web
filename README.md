@@ -12,3 +12,7 @@ Add purpose
 Add deployment text
 
 ## How To Contribute
+
+### Copyright
+
+2020 Git.Training.
